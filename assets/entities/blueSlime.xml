@@ -1,0 +1,23 @@
+<TextureAtlas imagePath="sprites.png">
+	<SubTexture name="slime-attack-0.png" x="0" y="65" width="28" height="11"/>
+	<SubTexture name="slime-attack-1.png" x="0" y="15" width="29" height="11"/>
+	<SubTexture name="slime-attack-2.png" x="0" y="43" width="28" height="20"/>
+	<SubTexture name="slime-attack-3.png" x="30" y="59" width="28" height="15"/>
+	<SubTexture name="slime-attack-4.png" x="30" y="108" width="28" height="12"/>
+	<SubTexture name="slime-die-0.png" x="60" y="49" width="28" height="14"/>
+	<SubTexture name="slime-die-1.png" x="60" y="31" width="28" height="16"/>
+	<SubTexture name="slime-die-2.png" x="0" y="4" width="30" height="9"/>
+	<SubTexture name="slime-die-3.png" x="0" y="0" width="31" height="2"/>
+	<SubTexture name="slime-hurt-0.png" x="31" y="15" width="28" height="14"/>
+	<SubTexture name="slime-hurt-1.png" x="30" y="91" width="28" height="15"/>
+	<SubTexture name="slime-hurt-2.png" x="0" y="28" width="29" height="13"/>
+	<SubTexture name="slime-hurt-3.png" x="30" y="76" width="28" height="13"/>
+	<SubTexture name="slime-idle-0.png" x="0" y="78" width="28" height="14"/>
+	<SubTexture name="slime-idle-1.png" x="30" y="43" width="28" height="14"/>
+	<SubTexture name="slime-idle-2.png" x="0" y="109" width="28" height="14"/>
+	<SubTexture name="slime-idle-3.png" x="0" y="94" width="28" height="13"/>
+	<SubTexture name="slime-move-0.png" x="33" y="0" width="26" height="12"/>
+	<SubTexture name="slime-move-1.png" x="60" y="65" width="26" height="12"/>
+	<SubTexture name="slime-move-2.png" x="60" y="92" width="24" height="12"/>
+	<SubTexture name="slime-move-3.png" x="60" y="79" width="26" height="11"/>
+</TextureAtlas>
